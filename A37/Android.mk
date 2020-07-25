@@ -17,7 +17,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),a6000)
+ifeq ($(TARGET_DEVICE),A37)
 
 
 include $(CLEAR_VARS)
